@@ -1,2 +1,2 @@
 # Bot_Query_AbuseIP
-Código JavaScript de um Bot que faz consulta da reputação de IP na base de blacklist AbuseIP. 
+Implementação de um BOT para consultas de reputação na blacklist de IPs do AbuseIP. 
